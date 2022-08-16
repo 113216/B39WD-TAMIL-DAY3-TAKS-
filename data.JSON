@@ -1,0 +1,43 @@
+  var resume ={
+    "name":"Dwarakesh.S",
+  "age": 24,
+  "label":"FULL STACK DEVELOPER",
+  "email":"dwarakmithun1998@gmail.com",
+  "phone":"9600385342",
+  "summery":"A Summary of Dwarakesh,solving code problems,proficent in HTML,CSS,JAVASCRIPT,REACT,MONGO DP,NODEJS,",
+  "Location": {
+    "address":"4/64-1, madham palayam,punjai puliyam patti",
+    "pin code":"638459",
+    "city":"sathiyamangalam",
+    "district":"erode",
+    "natinolity":"indian",
+  },
+  "Education": [{
+"cource":"B.Sc Bio Technology",
+"institution":"CMS COLLEGE OF SCIENCE AND COMMERCE",
+"Year of Passing":"2018",
+"scored":"58%",
+}],
+"skills": [{
+    "name": "full stack developer",
+    "level": "basic",
+    "key words":[
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "REACT",
+        "MONGO DP",
+        "NODE JS",
+    ]
+}],
+
+"languages": [{
+
+    "langage":"English,Tamil,Kannadam",
+    "fluency":"native speaker", 
+    
+
+}],
+
+}
+
